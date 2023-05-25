@@ -1,0 +1,5 @@
+{
+  "name": "Unity.VisualScripting.Antlr3.Runtime",
+  "references": [],
+  "allowUnsafeCode": true
+}

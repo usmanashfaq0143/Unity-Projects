@@ -1,0 +1,8 @@
+{
+  "name": "Unity.VisualScripting.State",
+  "references": [
+    "Unity.VisualScripting.Flow",
+    "Unity.VisualScripting.Core"
+  ],
+  "allowUnsafeCode": true
+}

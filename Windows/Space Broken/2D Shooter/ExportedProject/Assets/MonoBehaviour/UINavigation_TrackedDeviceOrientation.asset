@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f06f60b1df2fadfb8b8d25510e034e5, type: 3}
+  m_Name: UINavigation/TrackedDeviceOrientation
+  m_EditorClassIdentifier:
+  m_Asset: {fileID: 11400000, guid: f24619c96d5cc0d4ea7963a40c2acd0e, type: 2}
+  m_ActionId: fe4413f1-557e-4828-93df-de2d1e0d89e6

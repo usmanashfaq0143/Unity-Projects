@@ -1,0 +1,7 @@
+{
+  "name": "Unity.Burst.Cecil.Pdb",
+  "references": [
+    "Unity.Burst.Cecil"
+  ],
+  "allowUnsafeCode": true
+}
